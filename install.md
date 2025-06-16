@@ -1,3 +1,5 @@
+# install
+
 # 🚀 Vite React TypeScript - Deploy em EC2
 
 Este guia apresenta o setup completo de um projeto Vite + React + TypeScript e seu deploy em uma instância EC2 da AWS.
@@ -516,3 +518,4 @@ sudo journalctl -u nginx -f
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+> Feito com 💜 por [Maiyu](https://www.maiyu.com.br)
